@@ -47,3 +47,6 @@ uv run main.py
    - 通过正交变换缩放至 NDC 空间 (Standard Cube $[-1, 1]^3$)。
 
 4. **Viewport Transform**: 将 NDC 坐标映射到屏幕坐标系 $[0, 1] \times [0, 1]$。
+
+## 实验结果展示
+![实验演示视频](https://github.com/BNUCG-2026/Transformation/blob/main/video/实验结果展示.gif)
