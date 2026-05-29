@@ -85,6 +85,10 @@ uv run plus.py
 
 ## 🎬 实验结果展示
 
-
+### 扁平三角形旋转
 
 ![实验演示视频](https://github.com/BNUCG-2026/Transformation/blob/main/video/实验结果展示.gif)
+
+### 3D 立方体线框模型（Wireframe Model）
+
+![实验演示视频](https://github.com/BNUCG-2026/Transformation/blob/main/video/实验结果展示1.gif)
